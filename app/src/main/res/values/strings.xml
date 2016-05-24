@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RxAndroidSample</string>
+    <string name="search_hint">输入城市名称</string>
+    <string name="no_results">没有搜索结果</string>
+</resources>

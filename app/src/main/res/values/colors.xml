@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="white_bg">#E8E8E8</color>
+    <color name="white_line">#FBFBFB</color>
+    <color name="gray_bg">#F0F0F1</color>
+    <color name="gray_text">#848484</color>
+    <color name="orange_text">#FF7C3E</color>
+    <color name="orange_main">#FF7C3E</color>
+    <color name="transparent">#00000000</color>
+    <color name="gray">#FF888888</color>
+    <color name="gray_text_search">#EDEDEE</color>
+    <color name="gray_tab">#414141</color>
+    <color name="gray_text_deep">#414141</color>
+    <color name="gray_tab_text">#8F8F8F</color>
+    <color name="linegray">#f0f0f0</color>
+
+    <color name="black">#000000</color>
+    <color name="dark">#000000</color>
+    <color name="midblack">#191313</color>
+    <color name="lightgray">#D4D5D5</color>
+    <color name="item_left">#848484</color>
+
+    <color name="main_blue">#00B5EE</color>
+    <color name="main_red">#FF2B2B</color>
+    <color name="bg_red">#D43C34</color>
+
+    <!-- 暗灰色 -->
+    <color name="dimgrey">#696969</color>
+    <!-- 雪白色 -->
+    <color name="floralwhite">#FFFAF0</color>
+
+    <!-- 分割线颜色 -->
+    <color name="bg_line">#f3f3f4</color>
+
+    <color name="province_line_border">#C7C7C7</color>
+</resources>
